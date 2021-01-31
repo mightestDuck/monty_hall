@@ -1,12 +1,12 @@
 [Monty Hall problem][1]
 
 Player variants:
-- `donkey` always stays with their initial choice
+- `donkey` always stays with the initial choice
 - `switcher` always switches when offered
 
 Host variants:
 - `knows-it-all` knows what's behind the doors
-- `random` doesn't know hence acts random
+- `random` doesn't know hence reveals randomly
 
 Win rate for `i_GAMES = 100.000`, `n_DOORS = 3` and `k_REWARDS = 1`:
 
